@@ -4,10 +4,10 @@
 // @icon                https://i.imgur.com/7WgHTT8.gif
 // @website             https://tribalwarsbr100.wixsite.com/tw100
 // @email               tribalwarsbr100@gmail.com
-// @description 	    Script para a o evento comerciante viajante ou comerciante ambulante do game tribalwars
-// @author		        Marcos v.s Marques
-// @include             http*://*.*screen=place&try=confirm*
-// @version     	    0.0.1
+// @description 	      Script para a o evento comerciante viajante ou comerciante ambulante do game tribalwars
+// @author		          Marcos v.s Marques
+// @include             http*://*.*screen=event_trump_card*
+// @version     	      0.0.1
 // @copyright           2018, Tribalwarsbr100 (https://openuserjs.org//users/Tribalwarsbr100)
 // @version             0.0.1
 // @license             AGPL-3.0-or-later
