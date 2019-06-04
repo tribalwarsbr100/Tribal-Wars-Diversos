@@ -1,14 +1,22 @@
-// @name Renomeador Aldeias
-// @Youtube Canal TW 100
-// @author Marcos V.S. Marques
-// @namespace https://www.youtube.com/channel/UCIngQdlpQxocFDB4Vk6yERg
-// @version 2.0 (JUN/2017;)
-// @grant Publico
-/* @description Renomeador Aldeias (linguagem: javascript)
-/* @Renomeia Em numero de coordenada, numero de k, numero de localização, ou por texto. 
-/* @Utilização Visualizações Gerais
-/* @Necessario Ter Conta Premium ativa
-*/
+// ==UserScript==
+// @name                Renomeador Aldeias
+// @namespace           @@marcosvinicius.santosmarques
+// @icon                https://i.imgur.com/7WgHTT8.gif
+// @website             https://tribalwarsbr100.wixsite.com/tw100
+// @email               tribalwarsbr100@gmail.com
+// @description 	Renomeia Em numero de coordenada, numero de k, numero de localização, ou por texto.
+// @author		Marcos v.s Marques
+// @include             http*://*.*screen=place&try=confirm*
+// @version             0.0.1
+// @copyright           2018, Tribalwarsbr100 (https://openuserjs.org//users/Tribalwarsbr100)
+// @version             0.0.1
+// @license             AGPL-3.0-or-later
+// @grant               GM_getResourceText
+// @grant               GM_addStyle
+// @grant               GM_getValue
+// @grant               unsafeWindow
+// ==/UserScript==
+
 /*==== Moldura Tw ====*/
 if(!twcheese)
 	var twcheese={};
