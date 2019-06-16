@@ -6,7 +6,7 @@
 // @email               tribalwarsbr100@gmail.com
 // @description 	Renomeia Em numero de coordenada, numero de k, numero de localização, ou por texto.
 // @author		Marcos v.s Marques
-// @include             http*://*.*screen=place&try=confirm*
+// @include             http*://*.*screen=overview_villages*
 // @version             0.0.1
 // @copyright           2018, Tribalwarsbr100 (https://openuserjs.org//users/Tribalwarsbr100)
 // @version             0.0.1
