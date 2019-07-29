@@ -5,7 +5,7 @@
 // @icon                https://i.imgur.com/7WgHTT8.gif
 // @website             https://tribalwarsbr100.wixsite.com/tw100
 // @email               tribalwarsbr100@gmail.com
-// @description 	    Script para desbloqueiar coleta no game tribal wars
+// @description 	    Script Para Farmar Players na praça de reunião
 // @author		        Marcos v.s Marques
 // @include             https://*/game.php?village=*&screen=place*
 // @version     	    0.0.1
