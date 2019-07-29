@@ -7,7 +7,7 @@
 // @email               tribalwarsbr100@gmail.com
 // @description 	     Script Para Coletar Coordenadas Game Tribal Wars
 // @author		        Marcos v.s Marques
-// @include             https://*/game.php?village=*&screen=place&mode=scavenge*
+// @include             https://*/game.php?village=*&screen=map*
 // @version     	    0.0.1
 // @copyright           2018, Tribalwarsbr100 (https://openuserjs.org//users/Tribalwarsbr100)
 // @license             AGPL-3.0-or-later
