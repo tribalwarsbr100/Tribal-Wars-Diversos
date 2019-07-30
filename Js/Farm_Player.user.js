@@ -89,8 +89,3 @@ if (document.URL.search(/screen=place/)!= -1 && document.URL.search(/try=confirm
 	document.forms[0].x.value = coord[0];
 	document.forms[0].y.value = coord[1];
 	document.forms[0].y.focus();
-} else {
-	alert("Este Boot sÃ³ funciona na praÃ§a de reuniÃ£o...");
-	self.location = win.game_data.link_base_pure.replace(/screen\=\w*/i, "screen=place");
-}
-void(0);
