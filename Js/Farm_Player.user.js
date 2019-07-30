@@ -7,7 +7,8 @@
 // @email               tribalwarsbr100@gmail.com
 // @description 	    Script Para Farmar Players na praça de reunião
 // @author		        Marcos v.s Marques
-// @include             https://*/game.php?village=*&screen=place*
+// @include             https://*/game.php?*&screen=place*
+// @include             https://*/game.php?*screen=place&village=*
 // @version     	    0.0.1
 // @copyright           2018, Tribalwarsbr100 (https://openuserjs.org//users/Tribalwarsbr100)
 // @license             AGPL-3.0-or-later
@@ -89,3 +90,7 @@ if (document.URL.search(/screen=place/)!= -1 && document.URL.search(/try=confirm
 	document.forms[0].x.value = coord[0];
 	document.forms[0].y.value = coord[1];
 	document.forms[0].y.focus();
+} else {
+
+}
+void(0);
