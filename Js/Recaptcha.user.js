@@ -7,6 +7,7 @@
 // @description 	    Solução para Resolver Recaptcha Automatico
 // @author		        Marcos v.s Marques
 // @include             http*://*.*game.php*
+// @include      *
 // @version             0.0.1
 // @copyright           2018, Tribalwarsbr100 (https://openuserjs.org//users/Tribalwarsbr100)
 // @version             0.0.1
