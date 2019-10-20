@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name                Coletar Recursos 5h
+// @name                Coletar Recursos 2h
 // @namespace           @@marcosvinicius.santosmarques
 // @icon                https://i.imgur.com/7WgHTT8.gif
 // @website             https://tribalwarsbr100.wixsite.com/tw100
